@@ -1,0 +1,13 @@
+C:\Users\Electronica Care\source\repos\OS\OS\bin\Debug\netcoreapp3.1\OS.exe
+C:\Users\Electronica Care\source\repos\OS\OS\bin\Debug\netcoreapp3.1\OS.deps.json
+C:\Users\Electronica Care\source\repos\OS\OS\bin\Debug\netcoreapp3.1\OS.runtimeconfig.json
+C:\Users\Electronica Care\source\repos\OS\OS\bin\Debug\netcoreapp3.1\OS.runtimeconfig.dev.json
+C:\Users\Electronica Care\source\repos\OS\OS\bin\Debug\netcoreapp3.1\OS.dll
+C:\Users\Electronica Care\source\repos\OS\OS\bin\Debug\netcoreapp3.1\OS.pdb
+C:\Users\Electronica Care\source\repos\OS\OS\obj\Debug\netcoreapp3.1\OS.csprojAssemblyReference.cache
+C:\Users\Electronica Care\source\repos\OS\OS\obj\Debug\netcoreapp3.1\OS.AssemblyInfoInputs.cache
+C:\Users\Electronica Care\source\repos\OS\OS\obj\Debug\netcoreapp3.1\OS.AssemblyInfo.cs
+C:\Users\Electronica Care\source\repos\OS\OS\obj\Debug\netcoreapp3.1\OS.csproj.CoreCompileInputs.cache
+C:\Users\Electronica Care\source\repos\OS\OS\obj\Debug\netcoreapp3.1\OS.dll
+C:\Users\Electronica Care\source\repos\OS\OS\obj\Debug\netcoreapp3.1\OS.pdb
+C:\Users\Electronica Care\source\repos\OS\OS\obj\Debug\netcoreapp3.1\OS.genruntimeconfig.cache
